@@ -4,6 +4,6 @@ server:
 # spring
 spring:
   application:
-    name: jpa-study-1
+    name: spring-db1-study
   profiles:
     active: local
